@@ -15,17 +15,17 @@
 <extension point="xbmc.python.pluginsource" library="default.py">
 <provides>video</provides>
 </extension>
-<extension point="xbmc.addon.repository" name="[B][COLOR white]Samuca's TV [COLOR blue]Repo[/COLOR][/COLOR][/B]">
+<extension point="xbmc.addon.repository" name="[B][COLOR white]Samuca's TV [COLOR blue]2024[/COLOR][/COLOR][/B]">
 <dir minversion="16.0.0" maxversion="18.9.0">
-<info compressed="false">https://raw.githubusercontent.com/skyrisk/brazucaplay/master/addons/repo/addons.xml</info>
-<checksum>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/addons/repo/addons.xml.md5</checksum>
-<datadir zip="true">https://raw.githubusercontent.com/skyrisk/brazucaplay/master/addons/repo/Plugins/</datadir>
+<info compressed="false">https://raw.githubusercontent.com/samuelwesleydev/brazucaplay/master/addons/repo/addons.xml</info>
+<checksum>https://raw.githubusercontent.com/samuelwesleydev/brazucaplay/master/addons/repo/addons.xml.md5</checksum>
+<datadir zip="true">https://raw.githubusercontent.com/samuelwesleydev/brazucaplay/master/addons/repo/Plugins/</datadir>
 <hashes>false</hashes>
 </dir>
 <dir minversion="18.9.1">
-<info compressed="false">https://raw.githubusercontent.com/skyrisk/brazucaplay/master/addons/repo/addons_matrix.xml</info>
-<checksum>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/addons/repo/addons_matrix.xml.md5</checksum>
-<datadir zip="true">https://raw.githubusercontent.com/skyrisk/brazucaplay/master/addons/repo/Plugins/</datadir>
+<info compressed="false">https://raw.githubusercontent.com/samuelwesleydev/brazucaplay/master/addons/repo/addons_matrix.xml</info>
+<checksum>https://raw.githubusercontent.com/samuelwesleydev/brazucaplay/master/addons/repo/addons_matrix.xml.md5</checksum>
+<datadir zip="true">https://raw.githubusercontent.com/samuelwesleydev/brazucaplay/master/addons/repo/Plugins/</datadir>
 <hashes>false</hashes>
 </dir>
 <dir>
@@ -56,15 +56,15 @@
 </requires>
 <extension point="xbmc.addon.repository" name="Brazuca Play Repository">
 <dir minversion="16.0.0" maxversion="18.9.0">
-<info compressed="false">https://raw.githubusercontent.com/skyrisk/brazucaplay/master/addons/repo/addons.xml</info>
-<checksum>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/addons/repo/addons.xml.md5</checksum>
-<datadir zip="true">https://raw.githubusercontent.com/skyrisk/brazucaplay/master/addons/repo/Plugins/</datadir>
+<info compressed="false">https://raw.githubusercontent.com/samuelwesleydev/brazucaplay/master/addons/repo/addons.xml</info>
+<checksum>https://raw.githubusercontent.com/samuelwesleydev/brazucaplay/master/addons/repo/addons.xml.md5</checksum>
+<datadir zip="true">https://raw.githubusercontent.com/samuelwesleydev/brazucaplay/master/addons/repo/Plugins/</datadir>
 <hashes>false</hashes>
 </dir>
 <dir minversion="18.9.1">
-<info compressed="false">https://raw.githubusercontent.com/skyrisk/brazucaplay/master/addons/repo/addons_matrix.xml</info>
-<checksum>https://raw.githubusercontent.com/skyrisk/brazucaplay/master/addons/repo/addons_matrix.xml.md5</checksum>
-<datadir zip="true">https://raw.githubusercontent.com/skyrisk/brazucaplay/master/addons/repo/Plugins/</datadir>
+<info compressed="false">https://raw.githubusercontent.com/samuelwesleydev/brazucaplay/master/addons/repo/addons_matrix.xml</info>
+<checksum>https://raw.githubusercontent.com/samuelwesleydev/brazucaplay/master/addons/repo/addons_matrix.xml.md5</checksum>
+<datadir zip="true">https://raw.githubusercontent.com/samuelwesleydev/brazucaplay/master/addons/repo/Plugins/</datadir>
 <hashes>false</hashes>
 </dir>
 <dir>
